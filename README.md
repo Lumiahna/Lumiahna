@@ -86,8 +86,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Lumiahna/Lumiahna/output/snake.svg" alt="Snake animation" />
-
-###
